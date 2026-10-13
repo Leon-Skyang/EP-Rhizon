@@ -1,5 +1,9 @@
 # EP Rhizon
 
+**在线模型 / Live viewer:** [EP Rhizon · Three.js](https://leon-skyang.github.io/EP-Rhizon/)
+
+![Frontal apparatus view](EP_Rhizon_01_Front.svg)
+
 Interactive Three.js visualization of a custom EP Rhizon porewater-equilibration device, with editable Blender and Adobe Illustrator source files.
 
 以确认后的自然弯曲版为最终装置模型：**土面位于 8 mL 刻度，水面位于 10 mL 刻度**。上下硅胶接头贴近离心管壁开孔，两根外部 PTFE 管与内部弯曲结构平顺衔接。
