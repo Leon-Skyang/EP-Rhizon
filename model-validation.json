@@ -1,0 +1,21 @@
+{
+  "source": "EP Rhizon-最终版.blend",
+  "soil": {
+    "object": "Soil · top at 8 mL · single EP",
+    "top_mm": 61.79999923706055,
+    "nominal_mL": 8,
+    "visible": true
+  },
+  "water": {
+    "object": "Water · EP filled to 10 mL · single EP",
+    "bottom_mm": 61.79999923706055,
+    "top_mm": 75.0,
+    "nominal_mL": 10,
+    "visible": true
+  },
+  "blender_render_performed": false,
+  "public_reference_images": 0,
+  "glb_unit": "metre; source millimetres scaled by 0.001",
+  "glb_bytes": 6304440,
+  "selected_object_count": 38
+}
